@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Gauguin94
 - 👀 I’m interested in neural network.
 - 🌱 I’m currently learning neural network.
-- 💞️ I’m looking to collaborate on analysis like analyzing data in game.
 - 📫 How to reach me rhrud0303@gmail.com
 
 <!---
